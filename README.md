@@ -6,3 +6,8 @@ The forked repository : https://github.com/davidkundi/webapp \
 Docker documentation: https://docs.docker.com
 
 Requirements: 
+- docker
+- git
+- python
+- pip
+
