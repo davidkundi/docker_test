@@ -1,5 +1,5 @@
 # docker_test
-==========================
 
-This tool is tracking a forked repo and cloning it if it making a change.\
+# This tool is tracking a forked repo and cloning it if it making a change with the gitpull.sh script.
+
 The forked repository : https://github.com/davidkundi/webapp
