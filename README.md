@@ -12,4 +12,6 @@ Requirements:
 - pip
 - virtual box(not necessarily)
 
-## I am using Ubuntu, you need a Linux distro or VirtualBox with a Linux distro image and create a virtual machine which you will work on
+## I am using Ubuntu, you need a Linux distro or VirtualBox with a Linux distro image and create a virtual machine which you will work on.
+
+Open a terminal and download the gitpull.sh script or clone the repository.
