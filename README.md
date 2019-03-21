@@ -10,4 +10,6 @@ Requirements:
 - git
 - python
 - pip
+- virtual box(not necessarily)
 
+## I am using Ubuntu, you need a Linux distro or VirtualBox with a Linux distro image and create a virtual machine which you will work on
