@@ -16,3 +16,8 @@ Requirements:
 
 - Open a terminal and download the gitpull.sh script to your home directory or clone the repository. The permission should be set with "sudo chmod +x gitpull.sh"
 - Open with Vim or Nano and you can see the REPOSRC=https://github.com/davidkundi/webapp and LOCALREPO=/home/$USER/webapp parameters. The REPOSRC is the repo what we are watching(in our case the forked repo) and the LOCALREPO is where to download in our system. 
+- Run the script " sh gitpull.sh && cd webapp". The script is downloading the gitrepo and after that you have to be in the webapp folder.
+
+## Build docker
+
+
